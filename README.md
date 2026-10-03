@@ -1,16 +1,21 @@
-## Hi there 👋
+# Meerab Sohail
 
-<!--
-**meerabsohail4201/meerabsohail4201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hi! I'm a Data Engineering student learning Git, GitHub and web development. I enjoy building small projects and learning new technologies.
 
-Here are some ideas to get you started:
+## Skills & Technologies
+| Category  | Technologies         |
+|-----------|----------------------|
+| Languages | Python, C#   |
+| Tools     | Git, GitHub, VS Code |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+### Project 1
+Coming soon.
+
+## Education
+BS Data Science, UET Lahore, 2026
+
+## Contact
+- Email: meerab.sohailchishti@gmail.com
+- GitHub: [@meerabsohail4201](https://github.com/meerabsohail4201)
